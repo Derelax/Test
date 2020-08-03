@@ -1,1 +1,1 @@
-print("GGBET");
+print("GGBET2û");
