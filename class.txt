@@ -1,1 +1,2 @@
 print("It's a new class");
+print("i'm a man");
